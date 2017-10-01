@@ -17,7 +17,7 @@ body{
              0px 8px 13px rgba(0,0,0,0.1),
              0px 18px 23px rgba(0,0,0,0.1);
 }
-body .content .description-section{
+body .content .description-section {
 	text-align: left;
 	padding-right: 30%;
 }
@@ -42,8 +42,16 @@ body .content .description-section{
 .contact-info{
 	margin-top: 40px;
 	display: inline-block;
-	width: 100%;	
+	width: 100%;
 }
+
+.footer {
+	margin-top: 60px;
+	display: inline-block;
+	font-size: 80%;
+	width: 100%;
+}
+
 @media screen and (max-width: 768px){
 	body .content .description-section{
 		padding-right: 0;
