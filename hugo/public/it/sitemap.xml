@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://trioiheimisch.ch/it/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://trioiheimisch.ch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://trioiheimisch.ch/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trioiheimisch.ch/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://trioiheimisch.ch/it/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://trioiheimisch.ch/it/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://trioiheimisch.ch/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://trioiheimisch.ch/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trioiheimisch.ch/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://trioiheimisch.ch/it/tags/"
+                />
+  </url>
+  
+</urlset>

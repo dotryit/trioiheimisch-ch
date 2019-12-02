@@ -1,0 +1,35 @@
+# Translations for Italian
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# 404.html
+#
+[notFound]
+other = "Oops, page n'existe pas…"
+
+[home]
+other = "Home"
+
+[archives]
+other = "Archives"
+
+# posts/single.html
+#
+[wordCount]
+other = "{{ .WordCount }} Môts"
+
+[tableOfContents]
+other = "Table des matières"
+
+[newer]
+other = "Plus récent"
+
+[older]
+other = "Plus âgé"
+
+# partials/header.html
+#
+[menu]
+other = "Menu"
+
+[featuredImage]
+other = "Image sur le prmemier etage"

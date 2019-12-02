@@ -1,0 +1,73 @@
+baseURL = "https://trioiheimisch.ch"
+languageCode = "de-ch"
+title = "iheimisch"
+theme = "iheimisch"
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10  # Maximum number of items in the RSS feed.
+# googleAnalytics = "UA-123-45"
+
+DefaultContentLanguage = "de"
+
+[languages]
+  [languages.de]
+    weight = 1
+  [languages.fr]
+    weight = 2
+  [languages.it]
+    weight = 3
+  [languages.en]
+    weight = 4
+
+[author]
+  name = "iheimisch"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  dateform        = "2. Jan 2006"
+  dateformShort   = "2. Jan"
+  dateformNum     = "2.1.2006"
+  dateformNumTime = "2.1.2006 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  themeColor = "#494f5c"
+  homeSubtitle = "Homepage des Trios iheimisch."
+  bgImg = "static/iheimisch.jpg"
+
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  relatedPosts = false  # Add a related content section to all single posts page
+
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+  
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/"
+
+[menu]
+
+  [[menu.main]]
+    name = "Live"
+    url = "live/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Trio"
+    url = "trio/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Sound"
+    url = "sound/"
+    weight = 30

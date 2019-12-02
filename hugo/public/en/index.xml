@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iheimisch</title>
+    <link>https://trioiheimisch.ch/en/</link>
+    <description>Recent content on iheimisch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    
+	<atom:link href="https://trioiheimisch.ch/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
