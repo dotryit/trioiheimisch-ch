@@ -5,39 +5,28 @@
 		<description>Recent content in iheimisch Sounds on iheimisch</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>de-ch</language>
-		<lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0100</lastBuildDate>
 		<atom:link href="https://trioiheimisch.ch/sound/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Dritter Sound</title>
-			<link>https://trioiheimisch.ch/sound/600_sound_two/</link>
-			<pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+			<title>Mitternachtsjodel</title>
+			<link>https://trioiheimisch.ch/sound/400_mitternachtsjodel/</link>
+			<pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
 			
-			<guid>https://trioiheimisch.ch/sound/600_sound_two/</guid>
-			<description>Der dritte Sound ist wunderbar.</description>
-			<content type="html"><![CDATA[<p>Der dritte Sound ist wunderbar.</p>
+			<guid>https://trioiheimisch.ch/sound/400_mitternachtsjodel/</guid>
+			<description> </description>
+			<content type="html"><![CDATA[<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/647078955&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 ]]></content>
 		</item>
 		
 		<item>
-			<title>Zweiter Sound</title>
-			<link>https://trioiheimisch.ch/sound/400_sound_two/</link>
-			<pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+			<title>Sträggelenacht</title>
+			<link>https://trioiheimisch.ch/sound/200_straeggele/</link>
+			<pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
 			
-			<guid>https://trioiheimisch.ch/sound/400_sound_two/</guid>
-			<description>Der zweite Sound ist wunderbar.</description>
-			<content type="html"><![CDATA[<p>Der zweite Sound ist wunderbar.</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Erster Sound</title>
-			<link>https://trioiheimisch.ch/sound/200_sound_one/</link>
-			<pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-			
-			<guid>https://trioiheimisch.ch/sound/200_sound_one/</guid>
-			<description>Der erste Sound ist wunderbar.</description>
-			<content type="html"><![CDATA[<p>Der erste Sound ist wunderbar.</p>
+			<guid>https://trioiheimisch.ch/sound/200_straeggele/</guid>
+			<description> </description>
+			<content type="html"><![CDATA[<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/647078955&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 ]]></content>
 		</item>
 		

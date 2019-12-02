@@ -26,6 +26,12 @@ other = "Prossimo"
 [older]
 other = "Precedente"
 
+[next]
+other = "Successivo"
+
+[previous]
+other = "Ultimo"
+
 # partials/header.html
 #
 [menu]

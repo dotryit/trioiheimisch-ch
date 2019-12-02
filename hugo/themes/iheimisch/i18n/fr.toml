@@ -26,6 +26,12 @@ other = "Plus récent"
 [older]
 other = "Plus âgé"
 
+[next]
+other = "Prochain"
+
+[previous]
+other = "Dernier"
+
 # partials/header.html
 #
 [menu]

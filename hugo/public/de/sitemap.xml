@@ -3,8 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://trioiheimisch.ch/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <loc>https://trioiheimisch.ch/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -18,72 +17,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trioiheimisch.ch/en/"
+                href="https://trioiheimisch.ch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://trioiheimisch.ch/"
+                href="https://trioiheimisch.ch/de/"
                 />
   </url>
   
   <url>
-    <loc>https://trioiheimisch.ch/live/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/live/2020-03-01_konzert_im_maerz/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/sound/600_sound_two/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/sound/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/live/2020-02-01_konzert_im_februar/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/sound/400_sound_two/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/live/2020-01-01_konzert_im_januar/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/live/2019-12-01_konzert_im_dezember/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/sound/200_sound_one/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/live/2019-11-01_konzert_im_november/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/trio/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/tags/</loc>
+    <loc>https://trioiheimisch.ch/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -97,12 +41,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trioiheimisch.ch/en/tags/"
+                href="https://trioiheimisch.ch/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://trioiheimisch.ch/tags/"
+                href="https://trioiheimisch.ch/de/tags/"
                 />
   </url>
   
