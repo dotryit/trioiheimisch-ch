@@ -1,65 +1,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>iheimisch Live on iheimisch</title>
+		<title>iheimisch Live on Simone Felber&#39;s iheimisch</title>
 		<link>https://trioiheimisch.ch/live/</link>
-		<description>Recent content in iheimisch Live on iheimisch</description>
+		<description>Recent content in iheimisch Live on Simone Felber&#39;s iheimisch</description>
 		<generator>Hugo -- gohugo.io</generator>
-		<language>de-ch</language>
-		<lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0100</lastBuildDate>
+		<language>de</language>
+		<lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0100</lastBuildDate>
 		<atom:link href="https://trioiheimisch.ch/live/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Konzert im März</title>
-			<link>https://trioiheimisch.ch/live/2020-03-01_konzert_im_maerz/</link>
-			<pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+			<title>Herrenhaus Grafenort</title>
+			<link>https://trioiheimisch.ch/live/2020-11-29_herrenhaus_grafenort/</link>
+			<pubDate>Sun, 29 Nov 2020 00:00:00 +0100</pubDate>
 			
-			<guid>https://trioiheimisch.ch/live/2020-03-01_konzert_im_maerz/</guid>
-			<description>Auch im März 2020 gibt es wieder ein Konzert des Trio iheimisch.</description>
-			<content type="html"><![CDATA[<p>Auch im März 2020 gibt es wieder ein Konzert des Trio iheimisch.</p>
+			<guid>https://trioiheimisch.ch/live/2020-11-29_herrenhaus_grafenort/</guid>
+			<description>Konzert im Herrenhaus
+Ort: Herrenhaus, Grafenort
+Zeitpunkt: 29. November 2020, 11:00</description>
+			<content type="html"><![CDATA[<p>Konzert im Herrenhaus</p>
+<p><strong>Ort</strong>: Herrenhaus, Grafenort</p>
+<p><strong>Zeitpunkt</strong>: 29. November 2020, 11:00</p>
 ]]></content>
 		</item>
 		
 		<item>
-			<title>Konzert im Februar</title>
-			<link>https://trioiheimisch.ch/live/2020-02-01_konzert_im_februar/</link>
-			<pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+			<title>Klangfestival Toggenburg</title>
+			<link>https://trioiheimisch.ch/live/2020-05-30_naturstimmen_festival/</link>
+			<pubDate>Sat, 30 May 2020 00:00:00 +0200</pubDate>
 			
-			<guid>https://trioiheimisch.ch/live/2020-02-01_konzert_im_februar/</guid>
-			<description>Auch im Februar 2020 gibt es wieder ein Konzert des Trio iheimisch.</description>
-			<content type="html"><![CDATA[<p>Auch im Februar 2020 gibt es wieder ein Konzert des Trio iheimisch.</p>
+			<guid>https://trioiheimisch.ch/live/2020-05-30_naturstimmen_festival/</guid>
+			<description>Weitere Informationen unter Klangfestival Toggenburg
+Ort: Alt St. Johann
+Datum: 30.05.20, 16:30</description>
+			<content type="html"><![CDATA[<p>Weitere Informationen unter <a href="https://klangwelt.swiss/de/klangfestival/konzertprogramm/am-unbekannten-ende-europas.html">Klangfestival Toggenburg</a></p>
+<p>Ort: Alt St. Johann</p>
+<p>Datum: 30.05.20, 16:30</p>
 ]]></content>
 		</item>
 		
 		<item>
-			<title>Konzert im Januar</title>
-			<link>https://trioiheimisch.ch/live/2020-01-01_konzert_im_januar/</link>
-			<pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+			<title>Volksmusikfestival Altdorf</title>
+			<link>https://trioiheimisch.ch/live/2020-05-16_volksmusikfestival_altdorf/</link>
+			<pubDate>Sat, 16 May 2020 00:00:00 +0200</pubDate>
 			
-			<guid>https://trioiheimisch.ch/live/2020-01-01_konzert_im_januar/</guid>
-			<description>Auch im Januar 2020 gibt es wieder ein Konzert des Trio iheimisch.</description>
-			<content type="html"><![CDATA[<p>Auch im Januar 2020 gibt es wieder ein Konzert des Trio iheimisch.</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Konzert im Dezember</title>
-			<link>https://trioiheimisch.ch/live/2019-12-01_konzert_im_dezember/</link>
-			<pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-			
-			<guid>https://trioiheimisch.ch/live/2019-12-01_konzert_im_dezember/</guid>
-			<description>Auch im Dezember 2019 gibt es wieder ein Konzert des Trio iheimisch.</description>
-			<content type="html"><![CDATA[<p>Auch im Dezember 2019 gibt es wieder ein Konzert des Trio iheimisch.</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Konzert im November</title>
-			<link>https://trioiheimisch.ch/live/2019-11-01_konzert_im_november/</link>
-			<pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
-			
-			<guid>https://trioiheimisch.ch/live/2019-11-01_konzert_im_november/</guid>
-			<description>Auch im November 2019 gibt es wieder ein Konzert des Trio iheimisch.</description>
-			<content type="html"><![CDATA[<p>Auch im November 2019 gibt es wieder ein Konzert des Trio iheimisch.</p>
+			<guid>https://trioiheimisch.ch/live/2020-05-16_volksmusikfestival_altdorf/</guid>
+			<description>Weitere Informationen unter Volksmusikfestival Altdorf
+Schlüsselsaal, Altdorf
+Sa, 16.05.2020, 24:00 Uhr</description>
+			<content type="html"><![CDATA[<p>Weitere Informationen unter <a href="http://www.volksmusikfestival.ch/">Volksmusikfestival Altdorf</a></p>
+<p>Schlüsselsaal, Altdorf</p>
+<p>Sa, 16.05.2020, 24:00 Uhr</p>
 ]]></content>
 		</item>
 		

@@ -1,16 +1,13 @@
 baseURL = "https://trioiheimisch.ch"
-languageCode = "de-ch"
-title = "iheimisch"
+languageCode = "de"
+title = "Simone Felber's iheimisch"
 theme = "iheimisch"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 rssLimit = 10  # Maximum number of items in the RSS feed.
 # googleAnalytics = "UA-123-45"
 
-[markup.goldmark.renderer]
-  unsafe = true
-
-DefaultContentLanguage = "de"
+defaultContentLanguage = "de"
 
 [languages]
   [languages.de]
@@ -72,3 +69,7 @@ DefaultContentLanguage = "de"
     name = "Sound"
     url = "sound/"
     weight = 30
+
+# Enable inline HTML in markdown for embedded soundcloud iframes
+[markup.goldmark.renderer]
+  unsafe = true

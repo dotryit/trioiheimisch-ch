@@ -15,7 +15,7 @@ other = "Archiv"
 # posts/single.html
 #
 [seeAlso]
-other = "Siehe "
+other = "Siehe"
 
 [wordCount]
 other = "{{ .WordCount }} Worte"
