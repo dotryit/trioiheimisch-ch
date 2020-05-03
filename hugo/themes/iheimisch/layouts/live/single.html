@@ -15,6 +15,9 @@
 	<main class="site-main section-inner animated fadeIn faster">
 		<article class="thin">
 			<header class="post-header">
+				{{- if .Params.remark }}
+				<div id="remark">{{ .Params.remark }}</div>
+				{{- end }}
 				<div class="post-meta"><span>{{ .Date.Day }}. {{ index site.Data.months_de (printf "%d" .Date.Month) }} {{ .Date.Year }}</span></div>
 				<h1>{{ .Title }}</h1>
 			</header>
