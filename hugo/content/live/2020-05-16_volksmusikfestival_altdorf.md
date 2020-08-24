@@ -1,7 +1,7 @@
 +++
 date = 2020-05-16
 title = "Volksmusikfestival Altdorf"
-remark= "Abgesagt"
+remark= "Verschoben auf 2022"
 publishdate = 2000-01-01
 +++
 
