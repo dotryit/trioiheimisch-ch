@@ -1,6 +1,6 @@
 baseURL = "https://simonefelbersiheimisch.ch"
 languageCode = "de"
-title = "Simone Felber's iheimisch"
+title = "Simone Felbers iheimisch"
 theme = "iheimisch"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -39,7 +39,7 @@ defaultContentLanguage = "de"
 
   # Metadata mostly used in document's head
   themeColor = "#494f5c"
-  homeSubtitle = "Homepage Simone Felber's iheimisch."
+  homeSubtitle = "Homepage Simone Felbers iheimisch."
   bgImg = "static/iheimisch.jpg"
 
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
