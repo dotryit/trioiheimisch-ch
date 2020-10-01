@@ -1,5 +1,5 @@
 +++
-title = "Trio iheimisch"
+title = "Simone Felber's  iheimisch"
 date = "2014-04-09"
 featuredImg = "static/trio.jpg"
 +++
@@ -10,7 +10,7 @@ Können fremde Klänge auch Heimatklänge werden? Wie schwierig ist es die musik
 
 Diese Fragen verbinden die Sängerin Simone Felber mit Adrian Würsch & Pirmin Huber. Ausgehend von dem jeweils eigenen musikalischen Zuhause (Volksmusik, Jazz oder Klassik) begeben sich die drei Musiker auf die Suche nach ihrem ganz eigenen gemeinsamen Urklang. 
 
-## Trio iheimisch, das sind...
+## Simone Felber's iheimisch, das sind...
 
 [Simone Felber - Stimme](http://simonefelber.ch/)
 
