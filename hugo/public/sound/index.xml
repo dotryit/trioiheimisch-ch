@@ -9,24 +9,22 @@
 		<atom:link href="https://simonefelbersiheimisch.ch/sound/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Mitternachtsjodel</title>
-			<link>https://simonefelbersiheimisch.ch/sound/400_mitternachtsjodel/</link>
+			<title>Ha ame ne Ort es Blüemeli gseh</title>
+			<link>https://simonefelbersiheimisch.ch/sound/200_bluemeli/</link>
 			<pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/sound/400_mitternachtsjodel/</guid>
-			<description> </description>
-			<content type="html"><![CDATA[<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/647071992&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Sträggelenacht</title>
-			<link>https://simonefelbersiheimisch.ch/sound/200_straeggele/</link>
-			<pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
-			
-			<guid>https://simonefelbersiheimisch.ch/sound/200_straeggele/</guid>
-			<description> </description>
-			<content type="html"><![CDATA[<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/647078955&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+			<guid>https://simonefelbersiheimisch.ch/sound/200_bluemeli/</guid>
+			<description>    </description>
+			<content type="html"><![CDATA[<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/N3AA-1327uY" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen 
+            style="position:absolute;top:0;left:0;width:100%;height:100%;">
+    </iframe>
+  </div>
+</div>
 ]]></content>
 		</item>
 		
