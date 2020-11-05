@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simone Felber&#39;s iheimisch</title>
-    <link>https://trioiheimisch.ch/</link>
-    <description>Recent content on Simone Felber&#39;s iheimisch</description>
+    <title>Simone Felbers iheimisch</title>
+    <link>https://simonefelbersiheimisch.ch/</link>
+    <description>Recent content on Simone Felbers iheimisch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://trioiheimisch.ch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://simonefelbersiheimisch.ch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Herrenhaus Grafenort</title>
-      <link>https://trioiheimisch.ch/live/2020-11-29_herrenhaus_grafenort/</link>
+      <link>https://simonefelbersiheimisch.ch/live/2020-11-29_herrenhaus_grafenort/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0100</pubDate>
       
-      <guid>https://trioiheimisch.ch/live/2020-11-29_herrenhaus_grafenort/</guid>
+      <guid>https://simonefelbersiheimisch.ch/live/2020-11-29_herrenhaus_grafenort/</guid>
       <description>Konzert im Herrenhaus
 Ort: Herrenhaus, Grafenort
 Zeitpunkt: 29. November 2020, 11:00</description>
     </item>
     
     <item>
+      <title>Plattentaufe</title>
+      <link>https://simonefelbersiheimisch.ch/live/2020-08-27_plattentaufe_seebad/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://simonefelbersiheimisch.ch/live/2020-08-27_plattentaufe_seebad/</guid>
+      <description>Plattentaufe «Ha ame ne Ort es Blüemeli gseh»
+Ort: Seebad Luzern
+Zeitpunkt: 27. August 2020, 20:30, Eintritt frei, Kollekte</description>
+    </item>
+    
+    <item>
+      <title>CD «Ha ame ne Ort es Blüemeli gseh»</title>
+      <link>https://simonefelbersiheimisch.ch/cd/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://simonefelbersiheimisch.ch/cd/</guid>
+      <description>Die CD «Ha ame ne Ort es Blüemeli gseh» kann auf folgende Arten bestellt werden:
+  Twint: Zahlung von CHF 25 pro CD plus CHF 5 Porto per Twint an +41 77 414 25 45.
+In der Nachricht unbedingt Lieferadresse angeben!
+  Banküberweisung: Zahlung von CHF 25 pro CD plus CHF 5 Porto an CH45 0900 0000 4062 5764 6 (Simone Felber, Luzern).
+In der Nachricht unbedingt Lieferadresse angeben!</description>
+    </item>
+    
+    <item>
       <title>Klangfestival Toggenburg</title>
-      <link>https://trioiheimisch.ch/live/2020-05-30_naturstimmen_festival/</link>
+      <link>https://simonefelbersiheimisch.ch/live/2020-05-30_naturstimmen_festival/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://trioiheimisch.ch/live/2020-05-30_naturstimmen_festival/</guid>
+      <guid>https://simonefelbersiheimisch.ch/live/2020-05-30_naturstimmen_festival/</guid>
       <description>Weitere Informationen unter Klangfestival Toggenburg
 Ort: Alt St. Johann
 Datum: 30.05.20, 16:30</description>
@@ -35,39 +59,30 @@ Datum: 30.05.20, 16:30</description>
     
     <item>
       <title>Volksmusikfestival Altdorf</title>
-      <link>https://trioiheimisch.ch/live/2020-05-16_volksmusikfestival_altdorf/</link>
+      <link>https://simonefelbersiheimisch.ch/live/2020-05-16_volksmusikfestival_altdorf/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://trioiheimisch.ch/live/2020-05-16_volksmusikfestival_altdorf/</guid>
+      <guid>https://simonefelbersiheimisch.ch/live/2020-05-16_volksmusikfestival_altdorf/</guid>
       <description>Weitere Informationen unter Volksmusikfestival Altdorf
 Schlüsselsaal, Altdorf
 Sa, 16.05.2020, 24:00 Uhr</description>
     </item>
     
     <item>
-      <title>Mitternachtsjodel</title>
-      <link>https://trioiheimisch.ch/sound/400_mitternachtsjodel/</link>
+      <title>Ha ame ne Ort es Blüemeli gseh</title>
+      <link>https://simonefelbersiheimisch.ch/sound/200_bluemeli/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://trioiheimisch.ch/sound/400_mitternachtsjodel/</guid>
-      <description> </description>
+      <guid>https://simonefelbersiheimisch.ch/sound/200_bluemeli/</guid>
+      <description>    </description>
     </item>
     
     <item>
-      <title>Sträggelenacht</title>
-      <link>https://trioiheimisch.ch/sound/200_straeggele/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trioiheimisch.ch/sound/200_straeggele/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>Trio iheimisch</title>
-      <link>https://trioiheimisch.ch/trio/</link>
+      <title>Simone Felbers  iheimisch</title>
+      <link>https://simonefelbersiheimisch.ch/trio/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://trioiheimisch.ch/trio/</guid>
+      <guid>https://simonefelbersiheimisch.ch/trio/</guid>
       <description>Naturklänge - Heimatklänge - Urklänge - musikalische Heimat
 Können fremde Klänge auch Heimatklänge werden? Wie schwierig ist es die musikalische Heimat zu verlassen? Woher kommen Ur- und Naturklänge? Kann ein neuer Klang auch ein Urklang werden? Wann wird Fremdes heimisch, wann Heimisches fremd?
 Diese Fragen verbinden die Sängerin Simone Felber mit Adrian Würsch &amp;amp; Pirmin Huber. Ausgehend von dem jeweils eigenen musikalischen Zuhause (Volksmusik, Jazz oder Klassik) begeben sich die drei Musiker auf die Suche nach ihrem ganz eigenen gemeinsamen Urklang.</description>

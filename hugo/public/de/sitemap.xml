@@ -3,91 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://trioiheimisch.ch/live/2020-11-29_herrenhaus_grafenort/</loc>
+    <loc>https://simonefelbersiheimisch.ch/live/2020-11-29_herrenhaus_grafenort/</loc>
     <lastmod>2020-11-29T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trioiheimisch.ch/live/</loc>
+    <loc>https://simonefelbersiheimisch.ch/live/</loc>
     <lastmod>2020-11-29T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trioiheimisch.ch/</loc>
+    <loc>https://simonefelbersiheimisch.ch/</loc>
     <lastmod>2020-11-29T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://trioiheimisch.ch/fr/"
+                href="https://simonefelbersiheimisch.ch/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://trioiheimisch.ch/it/"
+                href="https://simonefelbersiheimisch.ch/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trioiheimisch.ch/en/"
+                href="https://simonefelbersiheimisch.ch/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://trioiheimisch.ch/"
+                href="https://simonefelbersiheimisch.ch/"
                 />
   </url>
   
   <url>
-    <loc>https://trioiheimisch.ch/live/2020-05-30_naturstimmen_festival/</loc>
+    <loc>https://simonefelbersiheimisch.ch/live/2020-08-27_plattentaufe_seebad/</loc>
+    <lastmod>2020-08-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonefelbersiheimisch.ch/cd/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonefelbersiheimisch.ch/live/2020-05-30_naturstimmen_festival/</loc>
     <lastmod>2020-05-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trioiheimisch.ch/live/2020-05-16_volksmusikfestival_altdorf/</loc>
+    <loc>https://simonefelbersiheimisch.ch/live/2020-05-16_volksmusikfestival_altdorf/</loc>
     <lastmod>2020-05-16T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trioiheimisch.ch/sound/</loc>
+    <loc>https://simonefelbersiheimisch.ch/sound/200_bluemeli/</loc>
     <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trioiheimisch.ch/sound/400_mitternachtsjodel/</loc>
+    <loc>https://simonefelbersiheimisch.ch/sound/</loc>
     <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trioiheimisch.ch/sound/200_straeggele/</loc>
-    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trioiheimisch.ch/trio/</loc>
+    <loc>https://simonefelbersiheimisch.ch/trio/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trioiheimisch.ch/tags/</loc>
+    <loc>https://simonefelbersiheimisch.ch/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://trioiheimisch.ch/fr/tags/"
+                href="https://simonefelbersiheimisch.ch/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://trioiheimisch.ch/it/tags/"
+                href="https://simonefelbersiheimisch.ch/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trioiheimisch.ch/en/tags/"
+                href="https://simonefelbersiheimisch.ch/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://trioiheimisch.ch/tags/"
+                href="https://simonefelbersiheimisch.ch/tags/"
                 />
   </url>
   

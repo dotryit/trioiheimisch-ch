@@ -1,6 +1,7 @@
 +++
 date = 2020-05-30
 title = "Klangfestival Toggenburg"
+remark= "Verschoben auf 2021"
 publishdate = 2000-01-01
 +++
 
