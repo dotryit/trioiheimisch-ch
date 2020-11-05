@@ -1,15 +1,11 @@
 ﻿+++
-date = "2020-10-25"
+date = 2020-10-25
 title = "Tage der Kulturlandschaft"
-draft = false
-publishdate = "2000-01-01"
+publishdate = 2000-01-01
 +++
 
-### Stimmenfestival Ettiswil im Rahmen der (Tage der Kulturlandschaft)[https://www.kulturlandschaftluzern.ch/]
+Stimmenfestival Ettiswil im Rahmen der [Tage der Kulturlandschaft](https://www.kulturlandschaftluzern.ch/)
 
-* (Simone Felbers iheimisch)[https://simonefelbersiheimisch.ch/]
+**Ort**: Schloss Wyher, Ettiswil
 
-
-### Datum
-
-* So, 25. Oktober 2020 // 17.00 Uhr // Schloss Wyher, Ettiswil
+**Zeitpunkt**: 15. Oktober 2020, 17:00

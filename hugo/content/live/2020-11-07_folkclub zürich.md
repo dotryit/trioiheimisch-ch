@@ -1,15 +1,11 @@
 ﻿+++
-date = "2020-11-13"
-title = "Kanti Forum Wohlen"
-draft = false
-publishdate = "2000-01-01"
+date = 2020-11-07
+title = "Folkclub Zürich"
+publishdate = 2000-01-01
 +++
 
-### Ha ame ne Ort es Blüemeli gseh im Kanti Forum Wohlen
+Ha ame ne Ort es Blüemeli gseh im Folkclub Zürich
 
-* (Simone Felbers iheimisch)[https://simonefelbersiheimisch.ch/]
+**Ort**: [Folkclub, Zürich](http://www.folkclub.ch/iheimisch/)
 
-
-### Datum
-
-* Fr, 13. Oktober 2020 // 20.15 Uhr // (Kanti-Forum, Wohlen)[https://www.kanti-forum.ch/]
+**Zeitpunkt**: 07. November 2020, 16:00 Jodelworkshop, 20:00 Konzert
