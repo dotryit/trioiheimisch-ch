@@ -17,3 +17,6 @@ Diese Fragen verbinden die Sängerin Simone Felber mit Adrian Würsch & Pirmin H
 [Adrian Würsch - Schwyzerörgeli](http://www.adrianwuersch.com/)
 
 [Pirmin Huber - Kontrabass](http://pirminhuber.com/)
+
+Das Trio kann per Mail unter <a href="mailto:info@trioiheimisch.ch">info at trioiheimisch.ch</a> erreicht werden.
+
