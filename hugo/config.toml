@@ -61,8 +61,8 @@ defaultContentLanguage = "de"
     weight = 10
 
   [[menu.main]]
-    name = "Trio"
-    url = "trio/"
+    name = "Bio"
+    url = "bio/"
     weight = 20
 
   [[menu.main]]

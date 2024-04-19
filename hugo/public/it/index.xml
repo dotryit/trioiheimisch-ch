@@ -5,10 +5,7 @@
     <link>https://simonefelbersiheimisch.ch/it/</link>
     <description>Recent content on Simone Felbers iheimisch</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    
-	<atom:link href="https://simonefelbersiheimisch.ch/it/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>it</language>
+    <atom:link href="https://simonefelbersiheimisch.ch/it/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
