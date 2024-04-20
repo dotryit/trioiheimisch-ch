@@ -38,7 +38,7 @@ defaultContentLanguage = "de"
   dateformNumTime = "2.1.2006 15:04 -0700"
 
   # Metadata mostly used in document's head
-  themeColor = "#494f5c"
+  themeColor = "#997445"
   homeSubtitle = "Homepage Simone Felbers iheimisch."
   bgImg = "static/iheimisch.jpg"
 
