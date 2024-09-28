@@ -3,13 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://simonefelbersiheimisch.ch/live/</loc>
-    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://simonefelbersiheimisch.ch/live/2024-09-21_konsum_cazis/</loc>
-    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonefelbersiheimisch.ch/</loc>
-    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -31,8 +28,14 @@
                 href="https://simonefelbersiheimisch.ch/"
                 />
   </url><url>
+    <loc>https://simonefelbersiheimisch.ch/live/2024-10-11_iheimisch_nidau/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://simonefelbersiheimisch.ch/archive/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simonefelbersiheimisch.ch/archive/2024-09-21_konsum_cazis/</loc>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonefelbersiheimisch.ch/archive/2024-09-14_kleintheater_luzern/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>

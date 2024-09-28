@@ -6,8 +6,15 @@
     <description>Recent content in iheimisch Archiv on Simone Felbers iheimisch</description>
     <generator>Hugo 0.125.1</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://simonefelbersiheimisch.ch/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Konsum Cazis</title>
+      <link>https://simonefelbersiheimisch.ch/archive/2024-09-21_konsum_cazis/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://simonefelbersiheimisch.ch/archive/2024-09-21_konsum_cazis/</guid>
+      <description>Konsum&#xA;Cazis&#xA;Sa, 21.09.2024</description>
+    </item>
     <item>
       <title>Kleintheater Luzern</title>
       <link>https://simonefelbersiheimisch.ch/archive/2024-09-14_kleintheater_luzern/</link>
@@ -70,13 +77,6 @@
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>https://simonefelbersiheimisch.ch/archive/2024-05-17_im_schtei/</guid>
       <description>Weitere Informationen unter Im Schtei&#xA;Kronegass 3, 6204 Sempach&#xA;Fr, 17.05.2024, 20:30 Uhr</description>
-    </item>
-    <item>
-      <title>Klang Heimlich</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2024-05-16_klang_heimlich/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2024-05-16_klang_heimlich/</guid>
-      <description>Weitere Informationen unter Klang Heimlich&#xA;Kinemathek Lichtspiel Bern, Sandrainstrasse 3, 3007 Bern&#xA;Do, 16.05.2024, 20:00 Uhr</description>
     </item>
   </channel>
 </rss>
