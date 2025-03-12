@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://simonefelbersiheimisch.ch/live/</loc>
+    <loc>https://simonefelbersiheimisch.ch/archive/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonefelbersiheimisch.ch/</loc>
@@ -28,11 +28,8 @@
                 href="https://simonefelbersiheimisch.ch/"
                 />
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/live/2025-03-09_iheimisch_kanzleiz%C3%BCrich/</loc>
+    <loc>https://simonefelbersiheimisch.ch/archive/2025-03-09_iheimisch_kanzleiz%C3%BCrich/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/</loc>
-    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonefelbersiheimisch.ch/archive/2025-02-14_iheimisch_ebikon/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
@@ -120,6 +117,8 @@
   </url><url>
     <loc>https://simonefelbersiheimisch.ch/bio/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simonefelbersiheimisch.ch/live/</loc>
   </url><url>
     <loc>https://simonefelbersiheimisch.ch/tags/</loc>
     <xhtml:link
