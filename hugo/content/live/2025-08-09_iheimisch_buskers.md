@@ -1,8 +1,8 @@
 +++
 date = "2025-08-09"
-title = "Simone Felbers iheimisch am Buskers Bern"
+title = "Buskers Bern"
 draft = false
-publishdate = "2000-01-01"
+publishdate = "2000-01-01" 
 +++
 ### am Buskers Bern
 <br>

@@ -1,6 +1,6 @@
 +++
 date = "2025-11-02"
-title = "Simone Felbers iheimisch"
+title = "Der Herbst, Innerschwyzer Kulturfestival, Brunnen"
 draft = false
 publishdate = "2000-01-01"
 +++
