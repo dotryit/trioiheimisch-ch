@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* So, 26. Oktober 2025 // Lesegesellschaft Stäfa // [Information und Reservation](https://lesegesellschaft.ch/?filter=Konzert+und+Theater)
+* So, 26. Oktober 2025 // 17:00 Uhr // Lesegesellschaft Stäfa // [Information und Reservation](https://lesegesellschaft.ch/?filter=Konzert+und+Theater)
