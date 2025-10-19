@@ -1,6 +1,6 @@
 +++
 date = "2025-12-06"
-title = "totätanz - A-Horn, Niederrickenbach"
+title = "totätanz - Kulturmühle Horw"
 draft = false
 publishdate = "2000-01-01"
 +++
@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Sa, 06. Dezember 2025 // 16:30 Uhr // Wallfahrtskirche Niederrickenbach // Information [Konzertreihe A-Horn](https://www.a-horn.ch/kopie-von-helenmaierandthefolks-2)
+* Sa, 17. Januar 2026 // 20:00 Uhr // Kulturmühle Horw // [Tickets](https://kulturmuehlehorw.ch/programm/simone-felbers-iheimisch-totaetanz)
