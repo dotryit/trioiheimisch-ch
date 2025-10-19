@@ -5,8 +5,30 @@
 		<description>Recent content in iheimisch Live on Simone Felbers iheimisch</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>de</language>
-		<lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate>
 		<atom:link href="http://localhost:1313/live/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>totätanz - Kulturmühle Horw</title>
+			<link>http://localhost:1313/live/2026-01-17_iheimisch_horw/</link>
+			<pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/live/2026-01-17_iheimisch_horw/</guid>
+			<description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 17. Januar 2026 // 20:00 Uhr // Kulturmühle Horw // Tickets </description>
+			<content type="html"><![CDATA[<h3 id="totätanz">totätanz</h3>
+<br>
+<ul>
+<li>Simone Felber - Gesang</li>
+<li>Adrian Würsch - Schwyzerörgeli</li>
+<li>Polina Niederhauser - Cello</li>
+<li>Rafael Jerjen - Kontrabass</li>
+</ul>
+<h3 id="datum">Datum</h3>
+<ul>
+<li>Sa, 17. Januar 2026 // 20:00 Uhr // Kulturmühle Horw // <a href="https://kulturmuehlehorw.ch/programm/simone-felbers-iheimisch-totaetanz">Tickets</a></li>
+</ul>
+]]></content>
+		</item>
 		
 		<item>
 			<title>totätanz - A-Horn, Niederrickenbach</title>
@@ -26,28 +48,6 @@
 <h3 id="datum">Datum</h3>
 <ul>
 <li>Sa, 06. Dezember 2025 // 16:30 Uhr // Wallfahrtskirche Niederrickenbach // Information <a href="https://www.a-horn.ch/kopie-von-helenmaierandthefolks-2">Konzertreihe A-Horn</a></li>
-</ul>
-]]></content>
-		</item>
-		
-		<item>
-			<title>totätanz - Kulturmühle Horw</title>
-			<link>http://localhost:1313/live/2026-01-17_iheimisch_horw/</link>
-			<pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-			
-			<guid>http://localhost:1313/live/2026-01-17_iheimisch_horw/</guid>
-			<description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 17. Januar 2026 // 20:00 Uhr // Kulturmühle Horw // Tickets </description>
-			<content type="html"><![CDATA[<h3 id="totätanz">totätanz</h3>
-<br>
-<ul>
-<li>Simone Felber - Gesang</li>
-<li>Adrian Würsch - Schwyzerörgeli</li>
-<li>Polina Niederhauser - Cello</li>
-<li>Rafael Jerjen - Kontrabass</li>
-</ul>
-<h3 id="datum">Datum</h3>
-<ul>
-<li>Sa, 17. Januar 2026 // 20:00 Uhr // Kulturmühle Horw // <a href="https://kulturmuehlehorw.ch/programm/simone-felbers-iheimisch-totaetanz">Tickets</a></li>
 </ul>
 ]]></content>
 		</item>

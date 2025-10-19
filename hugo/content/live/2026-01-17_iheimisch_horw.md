@@ -1,5 +1,5 @@
 +++
-date = "2025-12-06"
+date = "2026-01-17"
 title = "totätanz - Kulturmühle Horw"
 draft = false
 publishdate = "2000-01-01"
