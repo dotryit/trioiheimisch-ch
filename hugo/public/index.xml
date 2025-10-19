@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simone Felbers iheimisch</title>
-    <link>https://simonefelbersiheimisch.ch/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Simone Felbers iheimisch</description>
     <generator>Hugo 0.125.1</generator>
     <language>de</language>
     <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://simonefelbersiheimisch.ch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>totätanz - A-Horn, Niederrickenbach</title>
-      <link>https://simonefelbersiheimisch.ch/live/2025-12-06_iheimisch_niederrickenbach/</link>
+      <link>http://localhost:1313/live/2025-12-06_iheimisch_niederrickenbach/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/live/2025-12-06_iheimisch_niederrickenbach/</guid>
+      <guid>http://localhost:1313/live/2025-12-06_iheimisch_niederrickenbach/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 06. Dezember 2025 // 16:30 Uhr // Wallfahrtskirche Niederrickenbach // Information Konzertreihe A-Horn </description>
     </item>
     <item>
-      <title>Der Herbst, Innerschwyzer Kulturfestival, Gersau</title>
-      <link>https://simonefelbersiheimisch.ch/live/2025-11-02_iheimisch_gersauerherbst/</link>
+      <title>totätanz - Kulturmühle Horw</title>
+      <link>http://localhost:1313/live/2026-01-17_iheimisch_horw/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/live/2025-11-02_iheimisch_gersauerherbst/</guid>
+      <guid>http://localhost:1313/live/2026-01-17_iheimisch_horw/</guid>
+      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 17. Januar 2026 // 20:00 Uhr // Kulturmühle Horw // Tickets </description>
+    </item>
+    <item>
+      <title>Der Herbst, Innerschwyzer Kulturfestival, Gersau</title>
+      <link>http://localhost:1313/live/2025-11-02_iheimisch_gersauerherbst/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/live/2025-11-02_iheimisch_gersauerherbst/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum So, 02. November 2025 // 17:00 Uhr // Der Herbst, Gersau // Information und Reservation </description>
     </item>
     <item>
       <title>totätanz - Stäfa</title>
-      <link>https://simonefelbersiheimisch.ch/live/2025-10-26_iheimisch_st%C3%A4fa/</link>
+      <link>http://localhost:1313/live/2025-10-26_iheimisch_st%C3%A4fa/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/live/2025-10-26_iheimisch_st%C3%A4fa/</guid>
+      <guid>http://localhost:1313/live/2025-10-26_iheimisch_st%C3%A4fa/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum So, 26. Oktober 2025 // 17:00 Uhr // Lesegesellschaft Stäfa // Information und Reservation </description>
     </item>
     <item>
       <title>Nik Bärtschs RONIN X Simone Felbers iheimisch</title>
-      <link>https://simonefelbersiheimisch.ch/live/2025-10-20_iheimisch_moods/</link>
+      <link>http://localhost:1313/live/2025-10-20_iheimisch_moods/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/live/2025-10-20_iheimisch_moods/</guid>
+      <guid>http://localhost:1313/live/2025-10-20_iheimisch_moods/</guid>
       <description>Wätterglüüt Datum Mo, 20. Oktober 2025 // Moods // Tickets und Information </description>
     </item>
     <item>
       <title>totätanz - Lichtensteig</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2025-09-27_iheimisch_lichtensteig/</link>
+      <link>http://localhost:1313/archive/2025-09-27_iheimisch_lichtensteig/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2025-09-27_iheimisch_lichtensteig/</guid>
+      <guid>http://localhost:1313/archive/2025-09-27_iheimisch_lichtensteig/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 27. September 2025 // 19:00 Uhr // Zukunft.Bahnhof // Lichtensteig // Tickets </description>
     </item>
     <item>
       <title>Wächst Hoffnung?</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2025-09-21_iheimisch_bettag/</link>
+      <link>http://localhost:1313/archive/2025-09-21_iheimisch_bettag/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2025-09-21_iheimisch_bettag/</guid>
+      <guid>http://localhost:1313/archive/2025-09-21_iheimisch_bettag/</guid>
       <description>Ökumenische Bettagsfeier Regierungsrat Armin Hartmann - Gastpredigt Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Marianne Wyrsch, Ferdinand Zehnder - Interviewgäste Herbert Gut, Marcel Köppel - Moderation Datum So, 21. September 2025 // 10:30 Uhr // Panoramasaal, Hotel Seeburg, Luzern // Reservation und Information </description>
     </item>
     <item>
       <title>Nik Bärtschs RONIN X Simone Felbers iheimisch</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2025-08-15_iheimisch_alpent%C3%B6ne_altdorf/</link>
+      <link>http://localhost:1313/archive/2025-08-15_iheimisch_alpent%C3%B6ne_altdorf/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2025-08-15_iheimisch_alpent%C3%B6ne_altdorf/</guid>
+      <guid>http://localhost:1313/archive/2025-08-15_iheimisch_alpent%C3%B6ne_altdorf/</guid>
       <description>Wätterglüüt Datum Fr, 15. August 2025 // Alpentöne Festival Altdorf // Tickets und Information </description>
     </item>
     <item>
       <title>Buskers Bern</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2025-08-09_iheimisch_buskers/</link>
+      <link>http://localhost:1313/archive/2025-08-09_iheimisch_buskers/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2025-08-09_iheimisch_buskers/</guid>
+      <guid>http://localhost:1313/archive/2025-08-09_iheimisch_buskers/</guid>
       <description>am Buskers Bern Simone Felber - Gesang Florian Pezzatti - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 07. bis Sa, 09. August 2025 // 18 Uhr bis Mitternacht // Altstadt, Bern // Information </description>
     </item>
     <item>
       <title>Buskers Bern</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2025-08-08_iheimisch_buskers/</link>
+      <link>http://localhost:1313/archive/2025-08-08_iheimisch_buskers/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2025-08-08_iheimisch_buskers/</guid>
-      <description>am Buskers Bern Simone Felber - Gesang Florian Pezzatti - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 07. bis Sa, 09. August 2025 // 18 Uhr bis Mitternacht // Altstadt, Bern // Information </description>
-    </item>
-    <item>
-      <title>Buskers Bern</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2025-08-07_iheimisch_buskers/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2025-08-07_iheimisch_buskers/</guid>
+      <guid>http://localhost:1313/archive/2025-08-08_iheimisch_buskers/</guid>
       <description>am Buskers Bern Simone Felber - Gesang Florian Pezzatti - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 07. bis Sa, 09. August 2025 // 18 Uhr bis Mitternacht // Altstadt, Bern // Information </description>
     </item>
   </channel>
