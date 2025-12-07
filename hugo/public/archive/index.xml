@@ -6,8 +6,15 @@
     <description>Recent content in iheimisch Archiv on Simone Felbers iheimisch</description>
     <generator>Hugo 0.125.1</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://simonefelbersiheimisch.ch/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>totätanz - A-Horn, Niederrickenbach</title>
+      <link>https://simonefelbersiheimisch.ch/archive/2025-12-06_iheimisch_niederrickenbach/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://simonefelbersiheimisch.ch/archive/2025-12-06_iheimisch_niederrickenbach/</guid>
+      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 06. Dezember 2025 // 16:30 Uhr // Wallfahrtskirche Niederrickenbach // Information Konzertreihe A-Horn </description>
+    </item>
     <item>
       <title>Der Herbst, Innerschwyzer Kulturfestival, Gersau</title>
       <link>https://simonefelbersiheimisch.ch/archive/2025-11-02_iheimisch_gersauerherbst/</link>
@@ -70,13 +77,6 @@
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>https://simonefelbersiheimisch.ch/archive/2025-08-07_iheimisch_buskers/</guid>
       <description>am Buskers Bern Simone Felber - Gesang Florian Pezzatti - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 07. bis Sa, 09. August 2025 // 18 Uhr bis Mitternacht // Altstadt, Bern // Information </description>
-    </item>
-    <item>
-      <title>Simone Felbers iheimisch</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2025-04-10_iheimisch_k%C3%BCntlerb%C3%B6rse/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2025-04-10_iheimisch_k%C3%BCntlerb%C3%B6rse/</guid>
-      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 10. April 2025 // 10:00 bis 11:15 Uhr // Künstlerbörse Thun, Schadausaal // Tickets und Information </description>
     </item>
   </channel>
 </rss>

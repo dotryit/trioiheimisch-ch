@@ -21,5 +21,5 @@ Mit der neuen Produktion Totätanz stellt sich das Ensemble einem universellen, 
 
 [Rafael Jerjen - Kontrabass](https://rafaeljerjen.ch/)
 
-Das Trio kann per Mail unter <a href="mailto:info@trioiheimisch.ch">info at trioiheimisch.ch</a> erreicht werden.
+Das Ensemble kann per Mail unter <a href="mailto:info@trioiheimisch.ch">info at trioiheimisch.ch</a> erreicht werden.
 
