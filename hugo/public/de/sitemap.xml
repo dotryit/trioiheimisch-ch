@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://simonefelbersiheimisch.ch/live/</loc>
-    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonefelbersiheimisch.ch/</loc>
-    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -27,6 +27,9 @@
                 hreflang="de"
                 href="https://simonefelbersiheimisch.ch/"
                 />
+  </url><url>
+    <loc>https://simonefelbersiheimisch.ch/live/2026-06-02_iheimisch_kleintheater/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonefelbersiheimisch.ch/live/2026-01-17_iheimisch_horw/</loc>
     <lastmod>2026-01-17T00:00:00+00:00</lastmod>
