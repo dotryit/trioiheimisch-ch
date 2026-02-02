@@ -6,8 +6,15 @@
     <description>Recent content on Simone Felbers iheimisch</description>
     <generator>Hugo 0.125.1</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://simonefelbersiheimisch.ch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>totätanz - Ermitage Beckenried</title>
+      <link>https://simonefelbersiheimisch.ch/live/2026-10-25_iheimisch_beckenried/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://simonefelbersiheimisch.ch/live/2026-10-25_iheimisch_beckenried/</guid>
+      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 24. Oktober 2026 // 20:00 Uhr // Ermitage Beckenried // Tickets </description>
+    </item>
     <item>
       <title>totätanz - Kleintheater Luzern</title>
       <link>https://simonefelbersiheimisch.ch/live/2026-06-02_iheimisch_kleintheater/</link>
@@ -70,13 +77,6 @@
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>https://simonefelbersiheimisch.ch/archive/2025-09-21_iheimisch_bettag/</guid>
       <description>Ökumenische Bettagsfeier Regierungsrat Armin Hartmann - Gastpredigt Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Marianne Wyrsch, Ferdinand Zehnder - Interviewgäste Herbert Gut, Marcel Köppel - Moderation Datum So, 21. September 2025 // 10:30 Uhr // Panoramasaal, Hotel Seeburg, Luzern // Reservation und Information </description>
-    </item>
-    <item>
-      <title>Nik Bärtschs RONIN X Simone Felbers iheimisch</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2025-08-15_iheimisch_alpent%C3%B6ne_altdorf/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2025-08-15_iheimisch_alpent%C3%B6ne_altdorf/</guid>
-      <description>Wätterglüüt Datum Fr, 15. August 2025 // Alpentöne Festival Altdorf // Tickets und Information </description>
     </item>
   </channel>
 </rss>
