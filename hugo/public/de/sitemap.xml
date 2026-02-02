@@ -2,184 +2,187 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://simonefelbersiheimisch.ch/live/</loc>
+    <loc>http://localhost:1313/live/</loc>
     <lastmod>2026-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://simonefelbersiheimisch.ch/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://simonefelbersiheimisch.ch/it/"
+                href="http://localhost:1313/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://simonefelbersiheimisch.ch/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://simonefelbersiheimisch.ch/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/live/2026-06-02_iheimisch_kleintheater/</loc>
+    <loc>http://localhost:1313/live/2026-06-02_iheimisch_kleintheater/</loc>
     <lastmod>2026-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/live/2026-01-17_iheimisch_horw/</loc>
+    <loc>http://localhost:1313/live/2026-04-15_iheimisch_stanser_musiktage/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/</loc>
     <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/</loc>
+    <loc>http://localhost:1313/archive/2026-01-17_iheimisch_horw/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/2025-12-06_iheimisch_niederrickenbach/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-12-06_iheimisch_niederrickenbach/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-11-02_iheimisch_gersauerherbst/</loc>
+    <loc>http://localhost:1313/archive/2025-11-02_iheimisch_gersauerherbst/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-10-26_iheimisch_st%C3%A4fa/</loc>
+    <loc>http://localhost:1313/archive/2025-10-26_iheimisch_st%C3%A4fa/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-10-20_iheimisch_moods/</loc>
+    <loc>http://localhost:1313/archive/2025-10-20_iheimisch_moods/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-09-27_iheimisch_lichtensteig/</loc>
+    <loc>http://localhost:1313/archive/2025-09-27_iheimisch_lichtensteig/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-09-21_iheimisch_bettag/</loc>
+    <loc>http://localhost:1313/archive/2025-09-21_iheimisch_bettag/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-08-15_iheimisch_alpent%C3%B6ne_altdorf/</loc>
+    <loc>http://localhost:1313/archive/2025-08-15_iheimisch_alpent%C3%B6ne_altdorf/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-08-09_iheimisch_buskers/</loc>
+    <loc>http://localhost:1313/archive/2025-08-09_iheimisch_buskers/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-08-08_iheimisch_buskers/</loc>
+    <loc>http://localhost:1313/archive/2025-08-08_iheimisch_buskers/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-08-07_iheimisch_buskers/</loc>
+    <loc>http://localhost:1313/archive/2025-08-07_iheimisch_buskers/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-04-10_iheimisch_k%C3%BCntlerb%C3%B6rse/</loc>
+    <loc>http://localhost:1313/archive/2025-04-10_iheimisch_k%C3%BCntlerb%C3%B6rse/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-03-09_iheimisch_kanzleiz%C3%BCrich/</loc>
+    <loc>http://localhost:1313/archive/2025-03-09_iheimisch_kanzleiz%C3%BCrich/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-02-14_iheimisch_ebikon/</loc>
+    <loc>http://localhost:1313/archive/2025-02-14_iheimisch_ebikon/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-02-14_iheimisch_kultursonne_ebikon/</loc>
+    <loc>http://localhost:1313/archive/2025-02-14_iheimisch_kultursonne_ebikon/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-02-06_iheimisch_imrank_z%C3%BCrich/</loc>
+    <loc>http://localhost:1313/archive/2025-02-06_iheimisch_imrank_z%C3%BCrich/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2025-01-18_iheimisch_beckenried/</loc>
+    <loc>http://localhost:1313/archive/2025-01-18_iheimisch_beckenried/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-10-11_iheimisch_nidau/</loc>
+    <loc>http://localhost:1313/archive/2024-10-11_iheimisch_nidau/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-09-21_konsum_cazis/</loc>
+    <loc>http://localhost:1313/archive/2024-09-21_konsum_cazis/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-09-14_kleintheater_luzern/</loc>
+    <loc>http://localhost:1313/archive/2024-09-14_kleintheater_luzern/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-08-28_jazzfestival_willisau/</loc>
+    <loc>http://localhost:1313/archive/2024-08-28_jazzfestival_willisau/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-08-25_stubete_am_see/</loc>
+    <loc>http://localhost:1313/archive/2024-08-25_stubete_am_see/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-08-11_davos_festival/</loc>
+    <loc>http://localhost:1313/archive/2024-08-11_davos_festival/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-08-03_klangland_naters/</loc>
+    <loc>http://localhost:1313/archive/2024-08-03_klangland_naters/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-07-21_wellenkl%C3%A4nge_lunz_am_see/</loc>
+    <loc>http://localhost:1313/archive/2024-07-21_wellenkl%C3%A4nge_lunz_am_see/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-06-22_abl_jubil%C3%A4um/</loc>
+    <loc>http://localhost:1313/archive/2024-06-22_abl_jubil%C3%A4um/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-06-01_lange_nacht/</loc>
+    <loc>http://localhost:1313/archive/2024-06-01_lange_nacht/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-05-17_im_schtei/</loc>
+    <loc>http://localhost:1313/archive/2024-05-17_im_schtei/</loc>
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-05-16_klang_heimlich/</loc>
+    <loc>http://localhost:1313/archive/2024-05-16_klang_heimlich/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2024-04-19_kammermusik_luzern/</loc>
+    <loc>http://localhost:1313/archive/2024-04-19_kammermusik_luzern/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2020-11-29_herrenhaus_grafenort/</loc>
+    <loc>http://localhost:1313/archive/2020-11-29_herrenhaus_grafenort/</loc>
     <lastmod>2020-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2020-11-13_kantiforum/</loc>
+    <loc>http://localhost:1313/archive/2020-11-13_kantiforum/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2020-11-07_folkclub-z%C3%BCrich/</loc>
+    <loc>http://localhost:1313/archive/2020-11-07_folkclub-z%C3%BCrich/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2020-10-25_tage-der-kulturlandschaft/</loc>
+    <loc>http://localhost:1313/archive/2020-10-25_tage-der-kulturlandschaft/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2020-10-24_kammerchor/</loc>
+    <loc>http://localhost:1313/archive/2020-10-24_kammerchor/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2020-08-27_plattentaufe_seebad/</loc>
+    <loc>http://localhost:1313/archive/2020-08-27_plattentaufe_seebad/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/cd/</loc>
+    <loc>http://localhost:1313/cd/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2020-05-30_naturstimmen_festival/</loc>
+    <loc>http://localhost:1313/archive/2020-05-30_naturstimmen_festival/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/archive/2020-05-16_volksmusikfestival_altdorf/</loc>
+    <loc>http://localhost:1313/archive/2020-05-16_volksmusikfestival_altdorf/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/sound/200_bluemeli/</loc>
+    <loc>http://localhost:1313/sound/200_bluemeli/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/sound/</loc>
+    <loc>http://localhost:1313/sound/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/bio/</loc>
+    <loc>http://localhost:1313/bio/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonefelbersiheimisch.ch/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://simonefelbersiheimisch.ch/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://simonefelbersiheimisch.ch/it/tags/"
+                href="http://localhost:1313/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://simonefelbersiheimisch.ch/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://simonefelbersiheimisch.ch/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>
