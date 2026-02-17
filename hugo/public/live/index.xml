@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>iheimisch Live on Simone Felbers iheimisch</title>
-		<link>https://simonefelbersiheimisch.ch/live/</link>
+		<link>http://localhost:1313/live/</link>
 		<description>Recent content in iheimisch Live on Simone Felbers iheimisch</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>de</language>
 		<lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://simonefelbersiheimisch.ch/live/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://localhost:1313/live/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>totätanz - Ermitage Beckenried</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-10-25_iheimisch_beckenried/</link>
+			<link>http://localhost:1313/live/2026-10-25_iheimisch_beckenried/</link>
 			<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-10-25_iheimisch_beckenried/</guid>
+			<guid>http://localhost:1313/live/2026-10-25_iheimisch_beckenried/</guid>
 			<description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 24. Oktober 2026 // 20:00 Uhr // Ermitage Beckenried // Tickets </description>
 			<content type="html"><![CDATA[<h3 id="totätanz">totätanz</h3>
 <br>
@@ -32,10 +32,10 @@
 		
 		<item>
 			<title>totätanz - Kleintheater Luzern</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-06-02_iheimisch_kleintheater/</link>
+			<link>http://localhost:1313/live/2026-06-02_iheimisch_kleintheater/</link>
 			<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-06-02_iheimisch_kleintheater/</guid>
+			<guid>http://localhost:1313/live/2026-06-02_iheimisch_kleintheater/</guid>
 			<description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Di, 02. Juni 2026 // 20:00 Uhr // Kleintheater Luzern // Tickets </description>
 			<content type="html"><![CDATA[<h3 id="totätanz">totätanz</h3>
 <br>
@@ -54,38 +54,16 @@
 		
 		<item>
 			<title>Nik Bärtschs RONIN x Simone Felbers iheimisch</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-04-15_iheimisch_stanser_musiktage/</link>
+			<link>http://localhost:1313/live/2026-04-15_iheimisch_stanser_musiktage/</link>
 			<pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-04-15_iheimisch_stanser_musiktage/</guid>
+			<guid>http://localhost:1313/live/2026-04-15_iheimisch_stanser_musiktage/</guid>
 			<description>Wätterglüüt Datum Mi, 15. April 2026 // 20:30 Uhr // Stanser Musiktage // Theater an der Mürg, Stans // Tickets und Information </description>
 			<content type="html"><![CDATA[<h3 id="wätterglüüt">Wätterglüüt</h3>
 <br>
 <h3 id="datum">Datum</h3>
 <ul>
 <li>Mi, 15. April 2026 // 20:30 Uhr // Stanser Musiktage // Theater an der Mürg, Stans // <a href="https://www.stansermusiktage.ch/nik-baertschs-ronin-simone-felbers-iheimisch/">Tickets und Information</a></li>
-</ul>
-]]></content>
-		</item>
-		
-		<item>
-			<title>totätanz - Baslerhofscheune Bettingen</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-02-12_iheimisch_bettingen/</link>
-			<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-02-12_iheimisch_bettingen/</guid>
-			<description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 12. Februar 2026 // 19:30 Uhr // Baslerhofscheune Bettingen // Tickets </description>
-			<content type="html"><![CDATA[<h3 id="totätanz">totätanz</h3>
-<br>
-<ul>
-<li>Simone Felber - Gesang</li>
-<li>Adrian Würsch - Schwyzerörgeli</li>
-<li>Polina Niederhauser - Cello</li>
-<li>Rafael Jerjen - Kontrabass</li>
-</ul>
-<h3 id="datum">Datum</h3>
-<ul>
-<li>Do, 12. Februar 2026 // 19:30 Uhr // Baslerhofscheune Bettingen // <a href="https://www.bs.ch/veranstaltungen/simone-felbers-iheimisch-totaetanz-0">Tickets</a></li>
 </ul>
 ]]></content>
 		</item>
