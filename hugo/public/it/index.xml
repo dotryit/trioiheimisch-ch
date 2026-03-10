@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simone Felbers iheimisch</title>
-    <link>http://localhost:1313/it/</link>
+    <link>https://simonefelbersiheimisch.ch/it/</link>
     <description>Recent content on Simone Felbers iheimisch</description>
     <generator>Hugo 0.125.1</generator>
     <language>it</language>
-    <atom:link href="http://localhost:1313/it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://simonefelbersiheimisch.ch/it/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
