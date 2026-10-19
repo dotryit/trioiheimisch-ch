@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>iheimisch Sounds on Simone Felbers iheimisch</title>
-		<link>https://simonefelbersiheimisch.ch/sound/</link>
+		<link>http://localhost:1313/sound/</link>
 		<description>Recent content in iheimisch Sounds on Simone Felbers iheimisch</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>de</language>
 		<lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://simonefelbersiheimisch.ch/sound/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://localhost:1313/sound/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Balascht // Raucher vor de Klinik</title>
-			<link>https://simonefelbersiheimisch.ch/sound/400_totaetanz/</link>
+			<link>http://localhost:1313/sound/400_totaetanz/</link>
 			<pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/sound/400_totaetanz/</guid>
+			<guid>http://localhost:1313/sound/400_totaetanz/</guid>
 			<description> </description>
 			<content type="html"><![CDATA[<div>
   <div style="position:relative;padding-top:56.25%;">
@@ -30,10 +30,10 @@
 		
 		<item>
 			<title>Ha ame ne Ort es Blüemeli gseh</title>
-			<link>https://simonefelbersiheimisch.ch/sound/200_bluemeli/</link>
+			<link>http://localhost:1313/sound/200_bluemeli/</link>
 			<pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/sound/200_bluemeli/</guid>
+			<guid>http://localhost:1313/sound/200_bluemeli/</guid>
 			<description> </description>
 			<content type="html"><![CDATA[<div>
   <div style="position:relative;padding-top:56.25%;">

@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>iheimisch Live on Simone Felbers iheimisch</title>
-		<link>https://simonefelbersiheimisch.ch/live/</link>
+		<link>http://localhost:1313/live/</link>
 		<description>Recent content in iheimisch Live on Simone Felbers iheimisch</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>de</language>
 		<lastBuildDate>Thu, 10 Dec 2026 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://simonefelbersiheimisch.ch/live/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://localhost:1313/live/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>totätanz - Folk Club Zürich</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-12-10_iheimisch_folkclub_z%C3%BCrich/</link>
+			<link>http://localhost:1313/live/2026-12-10_iheimisch_folkclub_z%C3%BCrich/</link>
 			<pubDate>Thu, 10 Dec 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-12-10_iheimisch_folkclub_z%C3%BCrich/</guid>
+			<guid>http://localhost:1313/live/2026-12-10_iheimisch_folkclub_z%C3%BCrich/</guid>
 			<description>
 Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 10. Dezember 2026 // 20:00 Uhr // Folk Club Zürich // GZ Riesbach, Seefeldstrasse 93, Zürich // Tickets </description>
 			<content type="html"><![CDATA[<br>
@@ -32,10 +32,10 @@ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Ce
 		
 		<item>
 			<title>totätanz - Predigerkirche Basel</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-11-20_iheimisch_basel/</link>
+			<link>http://localhost:1313/live/2026-11-20_iheimisch_basel/</link>
 			<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-11-20_iheimisch_basel/</guid>
+			<guid>http://localhost:1313/live/2026-11-20_iheimisch_basel/</guid>
 			<description>
 Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Fr, 20. November 2026 // Predigerkirche, Basel </description>
 			<content type="html"><![CDATA[<br>
@@ -54,10 +54,10 @@ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Ce
 		
 		<item>
 			<title>Isabelle - Konzert mit dem Händelchor Luzern</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-11-15_iheimisch_haendelchor2/</link>
+			<link>http://localhost:1313/live/2026-11-15_iheimisch_haendelchor2/</link>
 			<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-11-15_iheimisch_haendelchor2/</guid>
+			<guid>http://localhost:1313/live/2026-11-15_iheimisch_haendelchor2/</guid>
 			<description>Auftragskomposition von Stephan Hodel nach Texten von Isabelle Kaiser Händelchor Luzern Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Jana Avazini - Texte Benjamin Rapp - Leitung Datum So, 15. November 2026 // 17:00 Uhr // Kirche St. Karl, Luzern // Tickets </description>
 			<content type="html"><![CDATA[<h3 id="auftragskomposition-von-stephan-hodelhttpswwwstephanhodelcom-nach-texten-von-isabelle-kaiser">Auftragskomposition von <a href="https://www.stephanhodel.com/">Stephan Hodel</a> nach Texten von Isabelle Kaiser</h3>
 <br>
@@ -79,10 +79,10 @@ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Ce
 		
 		<item>
 			<title>Isabelle - Konzert mit dem Händelchor Luzern</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-11-14_iheimisch_haendelchor/</link>
+			<link>http://localhost:1313/live/2026-11-14_iheimisch_haendelchor/</link>
 			<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-11-14_iheimisch_haendelchor/</guid>
+			<guid>http://localhost:1313/live/2026-11-14_iheimisch_haendelchor/</guid>
 			<description>Auftragskomposition von Stephan Hodel nach Texten von Isabelle Kaiser Händelchor Luzern Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Jana Avazini - Texte Benjamin Rapp - Leitung Datum Sa, 14. November 2026 // 19:30 Uhr // Kirche St. Karl, Luzern // Tickets </description>
 			<content type="html"><![CDATA[<h3 id="auftragskomposition-von-stephan-hodelhttpswwwstephanhodelcom-nach-texten-von-isabelle-kaiser">Auftragskomposition von <a href="https://www.stephanhodel.com/">Stephan Hodel</a> nach Texten von Isabelle Kaiser</h3>
 <br>
@@ -104,10 +104,10 @@ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Ce
 		
 		<item>
 			<title>totätanz - Forum elle Bern</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-11-12_iheimisch_bern/</link>
+			<link>http://localhost:1313/live/2026-11-12_iheimisch_bern/</link>
 			<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-11-12_iheimisch_bern/</guid>
+			<guid>http://localhost:1313/live/2026-11-12_iheimisch_bern/</guid>
 			<description>
 Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 12. November 2026 // 18:30 Uhr // Forum elle // Aula PROGR Waisenhausplatz, Bern // Anmeldung </description>
 			<content type="html"><![CDATA[<br>
@@ -126,10 +126,10 @@ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Ce
 		
 		<item>
 			<title>totätanz - Berg Buch Brig</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-11-06_iheimisch_brig/</link>
+			<link>http://localhost:1313/live/2026-11-06_iheimisch_brig/</link>
 			<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-11-06_iheimisch_brig/</guid>
+			<guid>http://localhost:1313/live/2026-11-06_iheimisch_brig/</guid>
 			<description>
 Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Fr, 06. November 2026 // 19:00 Uhr // Berg Buch Brig // Zeughaus Kultur, Brig-Glis // Tickets </description>
 			<content type="html"><![CDATA[<br>
@@ -148,10 +148,10 @@ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Ce
 		
 		<item>
 			<title>totätanz - Ermitage Beckenried</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-10-25_iheimisch_beckenried/</link>
+			<link>http://localhost:1313/live/2026-10-25_iheimisch_beckenried/</link>
 			<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-10-25_iheimisch_beckenried/</guid>
+			<guid>http://localhost:1313/live/2026-10-25_iheimisch_beckenried/</guid>
 			<description>
 Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 24. Oktober 2026 // 20:00 Uhr // Ermitage Beckenried // Tickets </description>
 			<content type="html"><![CDATA[<br>
@@ -170,10 +170,10 @@ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Ce
 		
 		<item>
 			<title>totätanz - Affoltern am Albis</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-10-23_iheimisch_affoltern-am-albis/</link>
+			<link>http://localhost:1313/live/2026-10-23_iheimisch_affoltern-am-albis/</link>
 			<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-10-23_iheimisch_affoltern-am-albis/</guid>
+			<guid>http://localhost:1313/live/2026-10-23_iheimisch_affoltern-am-albis/</guid>
 			<description>
 Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Fr, 23. Oktober 2026 // 20:15 Uhr // Galerie Märtplatz, Affoltern am Albis // Infos </description>
 			<content type="html"><![CDATA[<br>
@@ -186,28 +186,6 @@ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Ce
 <h3 id="datum">Datum</h3>
 <ul>
 <li>Fr, 23. Oktober 2026 // 20:15 Uhr //  Galerie Märtplatz, Affoltern am Albis // <a href="https://kulturaffoltern.ch/content/ka/events/_2026_10_23.html?reserve=true">Infos</a></li>
-</ul>
-]]></content>
-		</item>
-		
-		<item>
-			<title>totätanz - Oberkirch</title>
-			<link>https://simonefelbersiheimisch.ch/live/2026-10-17_iheimisch_oberkirch/</link>
-			<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-			
-			<guid>https://simonefelbersiheimisch.ch/live/2026-10-17_iheimisch_oberkirch/</guid>
-			<description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 17. Oktober 2026 // 18:30 Uhr Barbetrieb // 19:30 Uhr Konzert // Gemeindesaal Oberkirch // Kollekte // Infos </description>
-			<content type="html"><![CDATA[<h3 id="totätanz">totätanz</h3>
-<br>
-<ul>
-<li>Simone Felber - Gesang</li>
-<li><a href="https://www.adrianwuersch.com/aktuell">Adrian Würsch</a> - Schwyzerörgeli</li>
-<li><a href="https://polinaniederhauser.ch/">Polina Niederhauser</a> - Cello</li>
-<li><a href="https://rafaeljerjen.ch/">Rafael Jerjen</a> - Kontrabass</li>
-</ul>
-<h3 id="datum">Datum</h3>
-<ul>
-<li>Sa, 17. Oktober 2026 // 18:30 Uhr Barbetrieb // 19:30 Uhr Konzert // Gemeindesaal Oberkirch // Kollekte // <a href="https://www.oberkirch.ch/behoerden/18989">Infos</a></li>
 </ul>
 ]]></content>
 		</item>
