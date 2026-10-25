@@ -5,8 +5,28 @@
 		<description>Recent content in iheimisch Live on Simone Felbers iheimisch</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>de</language>
-		<lastBuildDate>Thu, 10 Dec 2026 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 07 Mar 2027 00:00:00 +0000</lastBuildDate>
 		<atom:link href="http://localhost:1313/live/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Trio Trëi &amp; Simone Felbers iheimisch - Casinotheater Zug</title>
+			<link>http://localhost:1313/live/2027-03-07_iheimisch_trei_zug/</link>
+			<pubDate>Sun, 07 Mar 2027 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/live/2027-03-07_iheimisch_trei_zug/</guid>
+			<description>
+Trëi - Abélia Nordmann, Gizen Şimsek, Mara Miriburg Simone Felbers iheimisch - Simone Felber, Rafael Jerjen, Polina Niederhauser, Adrian Würsch Datum So, 07. März 2027 // 11:00 Uhr // Theater Casino Zug // Tickets </description>
+			<content type="html"><![CDATA[<br>
+<ul>
+<li><a href="https://www.tr%C3%ABi.com/projects">Trëi</a> - Abélia Nordmann, Gizen Şimsek, Mara Miriburg</li>
+<li><a href="https://simonefelbersiheimisch.ch/">Simone Felbers iheimisch</a> - Simone Felber, Rafael Jerjen, Polina Niederhauser, Adrian Würsch</li>
+</ul>
+<h3 id="datum">Datum</h3>
+<ul>
+<li>So, 07. März 2027 // 11:00 Uhr // Theater Casino Zug // <a href="https://www.theatercasino.ch/programm/veranstaltungen/das-trio-trei-und-simone-felbers-iheimisch">Tickets</a></li>
+</ul>
+]]></content>
+		</item>
 		
 		<item>
 			<title>totätanz - Folk Club Zürich</title>
@@ -142,50 +162,6 @@ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Ce
 <h3 id="datum">Datum</h3>
 <ul>
 <li>Fr, 06. November 2026 // 19:00 Uhr // Berg Buch Brig // Zeughaus Kultur, Brig-Glis // <a href="https://www.bergbuchbrig.ch/">Tickets</a></li>
-</ul>
-]]></content>
-		</item>
-		
-		<item>
-			<title>totätanz - Ermitage Beckenried</title>
-			<link>http://localhost:1313/live/2026-10-25_iheimisch_beckenried/</link>
-			<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-			
-			<guid>http://localhost:1313/live/2026-10-25_iheimisch_beckenried/</guid>
-			<description>
-Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 24. Oktober 2026 // 20:00 Uhr // Ermitage Beckenried // Tickets </description>
-			<content type="html"><![CDATA[<br>
-<ul>
-<li>Simone Felber - Gesang</li>
-<li>Adrian Würsch - Schwyzerörgeli</li>
-<li>Polina Niederhauser - Cello</li>
-<li>Rafael Jerjen - Kontrabass</li>
-</ul>
-<h3 id="datum">Datum</h3>
-<ul>
-<li>Sa, 24. Oktober 2026 // 20:00 Uhr // Ermitage Beckenried // <a href="https://www.kulturverein-ermitage.ch/agenda/simone-felbers-iheimisch-totaetanz-2">Tickets</a></li>
-</ul>
-]]></content>
-		</item>
-		
-		<item>
-			<title>totätanz - Affoltern am Albis</title>
-			<link>http://localhost:1313/live/2026-10-23_iheimisch_affoltern-am-albis/</link>
-			<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-			
-			<guid>http://localhost:1313/live/2026-10-23_iheimisch_affoltern-am-albis/</guid>
-			<description>
-Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Fr, 23. Oktober 2026 // 20:15 Uhr // Galerie Märtplatz, Affoltern am Albis // Infos </description>
-			<content type="html"><![CDATA[<br>
-<ul>
-<li>Simone Felber - Gesang</li>
-<li><a href="https://www.adrianwuersch.com/aktuell">Adrian Würsch</a> - Schwyzerörgeli</li>
-<li><a href="https://polinaniederhauser.ch/">Polina Niederhauser</a> - Cello</li>
-<li><a href="https://rafaeljerjen.ch/">Rafael Jerjen</a> - Kontrabass</li>
-</ul>
-<h3 id="datum">Datum</h3>
-<ul>
-<li>Fr, 23. Oktober 2026 // 20:15 Uhr //  Galerie Märtplatz, Affoltern am Albis // <a href="https://kulturaffoltern.ch/content/ka/events/_2026_10_23.html?reserve=true">Infos</a></li>
 </ul>
 ]]></content>
 		</item>
