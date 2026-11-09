@@ -6,8 +6,15 @@
     <description>Recent content in iheimisch Archiv on Simone Felbers iheimisch</description>
     <generator>Hugo 0.125.1</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://simonefelbersiheimisch.ch/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>totätanz - Berg Buch Brig</title>
+      <link>https://simonefelbersiheimisch.ch/archive/2026-11-06_iheimisch_brig/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://simonefelbersiheimisch.ch/archive/2026-11-06_iheimisch_brig/</guid>
+      <description>&#xA;Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Fr, 06. November 2026 // 19:00 Uhr // Berg Buch Brig // Zeughaus Kultur, Brig-Glis // Tickets </description>
+    </item>
     <item>
       <title>totätanz - Ermitage Beckenried</title>
       <link>https://simonefelbersiheimisch.ch/archive/2026-10-25_iheimisch_beckenried/</link>
@@ -70,13 +77,6 @@
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>https://simonefelbersiheimisch.ch/archive/2026-04-12_iheimisch_laufenburg/</guid>
       <description>&#xA;Datum So, 12. April 2026 // 19:00 Uhr // Stadthalle, Laufenburg // Information </description>
-    </item>
-    <item>
-      <title>totätanz - Baslerhofscheune Bettingen</title>
-      <link>https://simonefelbersiheimisch.ch/archive/2026-02-12_iheimisch_bettingen/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://simonefelbersiheimisch.ch/archive/2026-02-12_iheimisch_bettingen/</guid>
-      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 12. Februar 2026 // 19:30 Uhr // Baslerhofscheune Bettingen // Tickets </description>
     </item>
   </channel>
 </rss>
