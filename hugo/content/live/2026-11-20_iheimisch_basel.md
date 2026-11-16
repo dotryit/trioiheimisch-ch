@@ -14,4 +14,5 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Fr, 20. November 2026 // Predigerkirche, Basel 
+* Fr, 20. November 2026 // 19:30 Uhr // Predigerkirche, Basel // Eintritt frei, Kollekte
+
